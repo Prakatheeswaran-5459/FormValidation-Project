@@ -1,0 +1,25 @@
+.error-text{
+  color: red;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-message{
+  color: green;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border:black 2px solid;
+  width: 300px;
+}
+
+
+
